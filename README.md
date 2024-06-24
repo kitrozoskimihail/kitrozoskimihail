@@ -1,8 +1,9 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)]("")
-https://i.pinimg.com/originals/b9/01/85/b9018579aebd5c161b0eac79ca04f17a.gif
+<div align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/2023/12/icegif-96.gif" alt="MasterHead">
+</div>
 <h1 align="center">Hi 👋, I'm Mihail</h1>
 <h3 align="center">Software developer from Macedonia</h3>
-<img align="right" alt="" width:"400" src-"https://i.gifer.com/origin/e2/e2917a322c5c7247c308d53725f0189f_w200.gif">
+<img align="right" alt="" width:"400" src="https://i.gifer.com/origin/e2/e2917a322c5c7247c308d53725f0189f_w200.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
