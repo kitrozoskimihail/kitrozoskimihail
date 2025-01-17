@@ -16,6 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kitrozoskimihail&show_icons=true&locale=en&layout=compact" alt="kitrozoskimihail" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kitrozoskimihail&show_icons=true&locale=en" alt="kitrozoskimihail" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kitrozoskimihail&" alt="kitrozoskimihail" /></p>
-
